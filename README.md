@@ -8,7 +8,7 @@ Since the enclosure is designed to be outdoor for all if not most of its life, i
 
 Currently, the enclosure is designed to house the following components:
 
--   [Raspberry Pi 4B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+-   [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
 -   [Raspberry Pi Camera Module](https://www.raspberrypi.com/documentation/accessories/camera.html)
 -   [Cherry MX linear switches or similar](https://www.cherry.de/mx-green)
 -   [2 Channel Relay Module](https://www.az-delivery.de/en/products/2-relais-modul)
